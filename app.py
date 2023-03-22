@@ -9,6 +9,7 @@ import torch
 from torchvision import transforms
 import numpy as np
 
+
 class VideoManager:
     def __init__(self, video):
         self.video = cv2.VideoCapture(video)
