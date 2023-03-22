@@ -1,5 +1,8 @@
 # README
 
+![demo](images/app.jpg)
+[YouTube link](https://youtu.be/WUSv0F_ZvhY)
+
 ## Installation
 
 ```shell
